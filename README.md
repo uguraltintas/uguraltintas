@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Uğur
-I am interested in mobile development. I am constantly improving myself on this. I develop Android applications with Kotlin and I develop cross-platform applications with React-Native.
+I graduated from Çanakkale Onsekiz Mart University Computer Engineering. I am interested in mobile development. I am constantly improving myself on this. I develop Android applications with Kotlin and I develop cross-platform applications with React-Native.
 
 ### How to reach me:
 ---
