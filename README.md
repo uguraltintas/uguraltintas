@@ -9,7 +9,7 @@
 - I develop Android applications with Kotlin and I develop cross-platform applications with React-Native.
 
 ### How to reach me:
----
+<hr/>
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uguraltintas17@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uguraltintas17/)
 
 ### Languages and Tools:
