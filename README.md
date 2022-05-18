@@ -1,12 +1,14 @@
 
 ## Hi 👋, I'm Uğur
 
+<img align="right" src="https://user-images.githubusercontent.com/36696138/134507183-06f1df09-df7b-4cac-8d3b-609b8a000560.gif">
 
-<img align="right" src="https://user-images.githubusercontent.com/36696138/134507183-06f1df09-df7b-4cac-8d3b-609b8a000560.gif" height="200">
+<ul align="left">  
+<li> I graduated from Çanakkale Onsekiz Mart University Computer Engineering. </li>
+<li> I am interested in mobile development. I am constantly improving myself on this. </li>
+<li>I develop Android applications with Kotlin and I develop cross-platform applications with React-Native.</li>  
+</ul>
 
-- I graduated from Çanakkale Onsekiz Mart University Computer Engineering. 
-- I am interested in mobile development. I am constantly improving myself on this. 
-- I develop Android applications with Kotlin and I develop cross-platform applications with React-Native.
 
 ### How to reach me:
 ---
